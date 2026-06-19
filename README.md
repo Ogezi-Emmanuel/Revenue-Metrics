@@ -27,9 +27,10 @@ The `revenue_metrics.py` module provides a `SaaSMetricsEngine` class that enable
 
 ## Installation & Setup
 
-1. **Navigate to the project directory**:
+1. **Clone the repository from GitHub**:
    ```bash
-   cd "c:\Users\user\OneDrive\Desktop\Revenue Metrics"
+   git clone https://github.com/Ogezi-Emmanuel/revenue-metrics.git
+   cd revenue-metrics
    ```
 
 2. **Install required dependencies**:
