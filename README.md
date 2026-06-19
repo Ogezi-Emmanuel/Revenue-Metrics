@@ -183,6 +183,6 @@ To create and run unit tests (recommended using pytest):
 
 ## License & Contact Information
 
-- **License**: To be determined
+- **License**: MIT License
 - **Maintainer**: Revenue Operations Team
-- **Contact**: [Add maintainer contact information here]
+- **Contact**: [https://www.linkedin.com/in/emmanuel-ogezi-2501932b6/]
