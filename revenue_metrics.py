@@ -76,33 +76,46 @@ if __name__ == "__main__":
     # Initialize Engine
     rev_engine = SaaSMetricsEngine(gross_margin_pct=0.80)
 
-    # 1. Retention Analysis
-    retention_scores = rev_engine.analyze_retention(
-        starting_arr=1200000, 
-        expansion=150000, 
-        contraction=45000, 
-        churn=85000
-    )
+    print("=== BOOTING AI REVENUE COMMAND CENTER ===")
     
-    # 2. Unit Economics (LTV:CAC)
-    unit_economics = rev_engine.calculate_ltv_cac_ratio(
-        total_cac_spend=350000, 
-        new_customers=50, 
-        arpa=1200, 
-        churn_rate_pct=2.5
-    )
+    # 1. Load the Generated CSV Data
+    try:
+        live_pipeline = pd.read_csv("synthetic_pipeline_payload.csv")
+        print(f"SUCCESS: Ingested {len(live_pipeline)} live pipeline records.\n")
+    except FileNotFoundError:
+        print("CRITICAL ERROR: 'synthetic_pipeline_payload.csv' not found.")
+        exit()
 
-    # 3. Probabilistic Pipeline Forecast (Simulating CRM Data)
-    mock_pipeline = pd.DataFrame({
-        'deal_id': [101, 102, 103, 104],
-        'deal_amount': [50000, 120000, 15000, 85000],
-        'stage_probability': [0.20, 0.60, 0.90, 0.10] # e.g., 20% likely to close
-    })
+    # 2. Schema Translation: Map HubSpot/Salesforce stages to close probabilities
+    probability_map = {
+        'closedwon': 1.0,
+        'contractsent': 0.85,
+        'decisionmakerboughtin': 0.60,
+        'presentationscheduled': 0.40,
+        'qualifiedtobuy': 0.20,
+        'appointmentscheduled': 0.10,
+        'closedlost': 0.0
+    }
+
+    # Apply the probability mapping
+    live_pipeline['stage_probability'] = live_pipeline['stage'].map(probability_map)
     
-    forecast = rev_engine.forecast_weighted_pipeline(mock_pipeline)
+    # Rename 'amount' to 'deal_amount' to satisfy the engine's strict column requirement
+    live_pipeline = live_pipeline.rename(columns={'amount': 'deal_amount'})
+
+    # 3. Data Cleansing: Isolate the Open Pipeline
+    # A RevOps forecast only looks at active deals, not deals already won or lost
+    open_pipeline = live_pipeline[~live_pipeline['stage'].isin(['closedwon', 'closedlost'])].copy()
+
+    # 4. Engine Execution
+    raw_open_pipe = open_pipeline['deal_amount'].sum()
+    forecast = rev_engine.forecast_weighted_pipeline(open_pipeline)
+    
+    # Calculate actual revenue secured in the dataset
+    secured_arr = live_pipeline[live_pipeline['stage'] == 'closedwon']['deal_amount'].sum()
 
     # --- Executive Output ---
-    print("=== AI REVENUE COMMAND CENTER: DIAGNOSTICS ===")
-    print(f"Retention Health: {retention_scores}")
-    print(f"Unit Economics:   {unit_economics}")
-    print(f"Weighted Q3 Pipe: ${forecast:,.2f}")
+    print("=== REAL-TIME ENTERPRISE DIAGNOSTICS ===")
+    print(f"Total Secured ARR:     ${secured_arr:,.2f}")
+    print(f"Raw Open Pipeline:     ${raw_open_pipe:,.2f}")
+    print(f"Weighted Q3 Forecast:  ${forecast:,.2f}")

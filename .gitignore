@@ -1,4 +1,14 @@
-
-
-# HubSpot config file
+# Environment variables and sensitive configuration files
+.env
 hubspot.config.yml
+
+# Python cache files
+*.pyc
+__pycache__/
+
+# Data files
+*.csv
+
+# OS files
+.DS_Store
+
