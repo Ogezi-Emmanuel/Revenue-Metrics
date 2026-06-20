@@ -439,6 +439,6 @@ All notable changes to this project will be documented in this section.
 
 ## License & Contact Information
 
-- **License**: To be determined
+- **License**: MIT License
 - **Maintainer**: Revenue Operations Team
-- **Contact**: [Add maintainer contact information here]
+- **Contact**: [https://www.linkedin.com/in/emmanuel-ogezi-2501932b6/]
