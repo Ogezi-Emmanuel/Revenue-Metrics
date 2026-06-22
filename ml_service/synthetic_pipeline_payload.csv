@@ -283,290 +283,6 @@ crm_id,deal_name,company_name,stage,amount,days_stalled,rep_touchpoints,client_e
 006fj00000GXXqPAAX,"Ramos, Nelson and Fischer - Q3 License","Ramos, Nelson and Fischer",Value Proposition,43100.0,1,2,5.8,4.5,6.0,5.0,4.5,
 006fj00000GXXtdAAH,"Estrada, Williams and Foster - Q3 License","Estrada, Williams and Foster",Prospecting,5000.0,1,2,5.8,11.7,9.0,8.0,11.7,
 006fj00000GXXvFAAX,"Brown, Harris and Dougherty - Q3 License","Brown, Harris and Dougherty",Value Proposition,23500.0,1,2,5.8,4.0,7.0,6.0,4.0,
-006fj00000G33g5AAB,Dickenson Mobile Generators,Dickenson plc,Qualification,15000.0,1,2,0.58,4.4,9.0,8.0,4.4,salesforce
-006fj00000G33g6AAB,United Oil Office Portable Generators,United Oil & Gas Corp.,Negotiation/Review,125000.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000G33g9AAB,Grand Hotels Kitchen Generator,Grand Hotels & Resorts Ltd,Id. Decision Makers,15000.0,1,2,0.58,4.4,9.0,8.0,4.4,salesforce
-006fj00000G33gAAAR,United Oil Refinery Generators,United Oil & Gas Corp.,Proposal/Price Quote,270000.0,1,2,0.58,3.7,8.0,7.0,3.7,salesforce
-006fj00000G33gCAAR,Grand Hotels Guest Portable Generators,Grand Hotels & Resorts Ltd,Value Proposition,250000.0,1,2,0.58,3.7,8.0,7.0,3.7,salesforce
-006fj00000G33gFAAR,Pyramid Emergency Generators,Pyramid Construction Inc.,Prospecting,100000.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000G33gGAAR,Express Logistics Portable Truck Generators,Express Logistics and Transport,Value Proposition,80000.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
-006fj00000G33gHAAR,GenePoint Lab Generators,GenePoint,Id. Decision Makers,60000.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000G33gJAAR,United Oil Installations,United Oil & Gas Corp.,Negotiation/Review,270000.0,1,2,0.58,3.7,8.0,7.0,3.7,salesforce
-006fj00000G33gPAAR,University of AZ Installations,University of Arizona,Proposal/Price Quote,100000.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000G33gQAAR,Express Logistics SLA,Express Logistics and Transport,Perception Analysis,120000.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000G33gYAAR,United Oil Plant Standby Generators,United Oil & Gas Corp.,Needs Analysis,675000.0,1,2,0.58,3.7,8.0,7.0,3.7,salesforce
-006fj00000G33gZAAR,Edge Emergency Generator,Edge Communications,Id. Decision Makers,35000.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
-006fj00000GXAVeAAP,"Harrison, Johnson and Roberts - Q3 License","Harrison, Johnson and Roberts",Prospecting,79100.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXD5LAAX,White-Estes - Q3 License,White-Estes,Prospecting,25100.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXDzmAAH,"Diaz, Gibbs and Smith - Q3 License","Diaz, Gibbs and Smith",Prospecting,36600.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
-006fj00000GXEPaAAP,"Garcia, Humphrey and Baker - Q3 License","Garcia, Humphrey and Baker",Value Proposition,89800.0,1,2,0.58,4.3,9.0,8.0,4.3,salesforce
-006fj00000GXF3uAAH,Santana-Byrd - Q3 License,Santana-Byrd,Prospecting,14400.0,1,2,0.58,4.1,10.0,9.0,4.1,salesforce
-006fj00000GXF8kAAH,"Stanley, Tucker and Lee - Q3 License","Stanley, Tucker and Lee",Prospecting,28700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXFNGAA5,Jimenez Ltd - Q3 License,Jimenez Ltd,Value Proposition,50800.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXGw2AAH,"Wood, Hunter and Peterson - Q3 License","Wood, Hunter and Peterson",Value Proposition,16900.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
-006fj00000GXGw3AAH,Wolf-Harris - Q3 License,Wolf-Harris,Prospecting,60900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXGzGAAX,"Williams, Logan and Camacho - Q3 License","Williams, Logan and Camacho",Prospecting,68600.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXH2UAAX,Spence PLC - Q3 License,Spence PLC,Value Proposition,9300.0,1,2,0.58,8.0,10.0,9.0,8.0,salesforce
-006fj00000GXHCAAA5,Walsh LLC - Q3 License,Walsh LLC,Prospecting,15900.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
-006fj00000GXIt2AAH,"Tapia, Vaughn and Lee - Q3 License","Tapia, Vaughn and Lee",Prospecting,31800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXIt3AAH,Buchanan LLC - Q3 License,Buchanan LLC,Prospecting,58600.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXJ2kAAH,Reed Group - Q3 License,Reed Group,Value Proposition,31100.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXJ9dAAH,Williams Inc - Q3 License,Williams Inc,Prospecting,17600.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXJykAAH,"Harvey, Davis and Crane - Q3 License","Harvey, Davis and Crane",Prospecting,28700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXK0MAAX,Gray-Mayo - Q3 License,Gray-Mayo,Value Proposition,26200.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXK5DAAX,Garcia LLC - Q3 License,Garcia LLC,Prospecting,62000.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXKMwAAP,Moore-Bass - Q3 License,Moore-Bass,Prospecting,21000.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXKV0AAP,Cordova Group - Q3 License,Cordova Group,Value Proposition,18000.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXKWcAAP,"Lucas, Parker and Alexander - Q3 License","Lucas, Parker and Alexander",Prospecting,13900.0,1,2,0.58,4.1,10.0,9.0,4.1,salesforce
-006fj00000GXKpzAAH,Cortez LLC - Q3 License,Cortez LLC,Prospecting,10200.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
-006fj00000GXLGHAA5,Ortiz Ltd - Q3 License,Ortiz Ltd,Prospecting,28500.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXLZ9AAP,Walker-Jones - Q3 License,Walker-Jones,Value Proposition,41600.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXLZAAA5,Sheppard LLC - Q3 License,Sheppard LLC,Prospecting,30700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXLdyAAH,Parsons-Hall - Q3 License,Parsons-Hall,Prospecting,46300.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXLyPAAX,Sanders-Espinoza - Q3 License,Sanders-Espinoza,Value Proposition,23500.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXLzSAAX,Garcia-Jennings - Q3 License,Garcia-Jennings,Value Proposition,54500.0,1,2,0.58,4.2,10.0,9.0,4.2,salesforce
-006fj00000GXM13AAH,"Walter, Edwards and Rios - Q3 License","Walter, Edwards and Rios",Prospecting,72700.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXM14AAH,Ware and Sons - Q3 License,Ware and Sons,Prospecting,103100.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXMlKAAX,Lopez-Martinez - Q3 License,Lopez-Martinez,Value Proposition,13200.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
-006fj00000GXN0LAAX,Blair PLC - Q3 License,Blair PLC,Value Proposition,13000.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
-006fj00000GXNKoAAP,Smith PLC - Q3 License,Smith PLC,Prospecting,35600.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
-006fj00000GXNT4AAP,Hernandez Inc - Q3 License,Hernandez Inc,Prospecting,6400.0,1,2,0.58,17.7,9.0,8.0,17.7,salesforce
-006fj00000GXNawAAH,"Ferrell, Rice and Maddox - Q3 License","Ferrell, Rice and Maddox",Prospecting,39100.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
-006fj00000GXNeAAAX,Jones PLC - Q3 License,Jones PLC,Prospecting,38800.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
-006fj00000GXNfmAAH,"Smith, Garrison and Thomas - Q3 License","Smith, Garrison and Thomas",Value Proposition,10400.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
-006fj00000GXNxWAAX,Good-Hodges - Q3 License,Good-Hodges,Prospecting,25000.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXOC2AAP,Carlson-Cruz - Q3 License,Carlson-Cruz,Prospecting,13800.0,1,2,0.58,3.7,10.0,9.0,3.7,salesforce
-006fj00000GXODeAAP,"Shaw, Nelson and Martin - Q3 License","Shaw, Nelson and Martin",Prospecting,11100.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
-006fj00000GXODfAAP,Edwards-Scott - Q3 License,Edwards-Scott,Prospecting,60400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXOHOAA5,King-Martinez - Q3 License,King-Martinez,Prospecting,62300.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXOdSAAX,"Flowers, Martin and Kelly - Q3 License","Flowers, Martin and Kelly",Prospecting,7600.0,1,2,0.58,8.7,9.0,8.0,8.7,salesforce
-006fj00000GXOsTAAX,Williams-Brown - Q3 License,Williams-Brown,Prospecting,13400.0,1,2,0.58,3.0,10.0,9.0,3.0,salesforce
-006fj00000GXOu5AAH,"Mcclure, Ward and Lee - Q3 License","Mcclure, Ward and Lee",Prospecting,72400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXPBKAA5,"Clark, Guerrero and Moore - Q3 License","Clark, Guerrero and Moore",Value Proposition,40000.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXPMcAAP,"Lee, Horton and Snyder - Q3 License","Lee, Horton and Snyder",Value Proposition,20000.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXPi5AAH,"Burke, Martinez and Riggs - Q3 License","Burke, Martinez and Riggs",Prospecting,11000.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
-006fj00000GXPq9AAH,Stafford Inc - Q3 License,Stafford Inc,Negotiation/Review,10900.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
-006fj00000GXPqAAAX,"Brennan, Wallace and Benson - Q3 License","Brennan, Wallace and Benson",Prospecting,15100.0,1,2,0.58,4.4,9.0,8.0,4.4,salesforce
-006fj00000GXQIgAAP,"Evans, Hayden and Vaughn - Q3 License","Evans, Hayden and Vaughn",Negotiation/Review,44700.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXQLuAAP,Williams-Cook - Q3 License,Williams-Cook,Prospecting,24600.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXQNVAA5,"Gardner, Robinson and Lawrence - Q3 License","Gardner, Robinson and Lawrence",Prospecting,36600.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
-006fj00000GXQP8AAP,Burton Ltd - Q3 License,Burton Ltd,Value Proposition,13800.0,1,2,0.58,3.7,10.0,9.0,3.7,salesforce
-006fj00000GXQQjAAP,"Henderson, Ramirez and Lewis - Q3 License","Henderson, Ramirez and Lewis",Prospecting,33300.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
-006fj00000GXQSLAA5,Garcia-James - Q3 License,Garcia-James,Prospecting,7200.0,1,2,0.58,10.7,9.0,8.0,10.7,salesforce
-006fj00000GXQTxAAP,Abbott-Munoz - Q3 License,Abbott-Munoz,Prospecting,41200.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXQVZAA5,Dudley Group - Q3 License,Dudley Group,Prospecting,10100.0,1,2,0.58,2.9,10.0,9.0,2.9,salesforce
-006fj00000GXQXCAA5,"Lawson, Morris and Ramos - Q3 License","Lawson, Morris and Ramos",Prospecting,19200.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXQXDAA5,Brennan-Johnson - Q3 License,Brennan-Johnson,Prospecting,13000.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
-006fj00000GXQYnAAP,Williams and Sons - Q3 License,Williams and Sons,Prospecting,18000.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXQaPAAX,Galloway-Wyatt - Q3 License,Galloway-Wyatt,Value Proposition,101400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXQc1AAH,James Group - Q3 License,James Group,Prospecting,19400.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXQddAAH,"Adams, Zuniga and Wong - Q3 License","Adams, Zuniga and Wong",Prospecting,12200.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
-006fj00000GXQfFAAX,"Reid, Ferguson and Sanchez - Q3 License","Reid, Ferguson and Sanchez",Value Proposition,79900.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
-006fj00000GXQfGAAX,Morales-Jones - Q3 License,Morales-Jones,Value Proposition,44400.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXQlhAAH,"Hoffman, Baker and Richards - Q3 License","Hoffman, Baker and Richards",Prospecting,10300.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
-006fj00000GXQliAAH,Johnston-Hines - Q3 License,Johnston-Hines,Negotiation/Review,18300.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXQnJAAX,"Ross, Robinson and Bright - Q3 License","Ross, Robinson and Bright",Prospecting,21400.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXQtlAAH,Smith-Bowen - Q3 License,Smith-Bowen,Value Proposition,24700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXQvNAAX,"Baker, Mason and White - Q3 License","Baker, Mason and White",Value Proposition,14200.0,1,2,0.58,4.1,10.0,9.0,4.1,salesforce
-006fj00000GXR0DAAX,Ryan PLC - Q3 License,Ryan PLC,Prospecting,6800.0,1,2,0.58,12.7,9.0,8.0,12.7,salesforce
-006fj00000GXR1pAAH,Rodriguez LLC - Q3 License,Rodriguez LLC,Prospecting,9000.0,1,2,0.58,8.0,10.0,9.0,8.0,salesforce
-006fj00000GXR3RAAX,Allen-Allen - Q3 License,Allen-Allen,Prospecting,17700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXR3SAAX,"Arroyo, Miller and Tucker - Q3 License","Arroyo, Miller and Tucker",Negotiation/Review,27800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXR6fAAH,"Martin, Rose and Obrien - Q3 License","Martin, Rose and Obrien",Prospecting,13300.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
-006fj00000GXR6gAAH,Miller-Wright - Q3 License,Miller-Wright,Prospecting,242000.0,1,2,0.58,3.7,8.0,7.0,3.7,salesforce
-006fj00000GXR8HAAX,Hickman Ltd - Q3 License,Hickman Ltd,Value Proposition,35100.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
-006fj00000GXR9tAAH,Walker LLC - Q3 License,Walker LLC,Prospecting,34300.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
-006fj00000GXRBVAA5,Chapman and Sons - Q3 License,Chapman and Sons,Prospecting,19200.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXRD7AAP,"Robinson, Jones and Welch - Q3 License","Robinson, Jones and Welch",Prospecting,23900.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXREjAAP,Jones Inc - Q3 License,Jones Inc,Prospecting,113400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXRLBAA5,"Johnston, Sanchez and Kennedy - Q3 License","Johnston, Sanchez and Kennedy",Prospecting,57700.0,1,2,0.58,4.2,10.0,9.0,4.2,salesforce
-006fj00000GXRMnAAP,Lee-Davis - Q3 License,Lee-Davis,Prospecting,56900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXROPAA5,Gomez-Jenkins - Q3 License,Gomez-Jenkins,Prospecting,11900.0,1,2,0.58,3.9,9.0,8.0,3.9,salesforce
-006fj00000GXRQ2AAP,"Lewis, Kennedy and Santana - Q3 License","Lewis, Kennedy and Santana",Value Proposition,59100.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXRQ3AAP,"Diaz, Anderson and Browning - Q3 License","Diaz, Anderson and Browning",Prospecting,43100.0,1,2,0.58,4.5,10.0,9.0,4.5,salesforce
-006fj00000GXRRdAAP,Powell LLC - Q3 License,Powell LLC,Prospecting,101800.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXRTFAA5,Wright and Sons - Q3 License,Wright and Sons,Value Proposition,12100.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
-006fj00000GXRUrAAP,"West, Henderson and Ramirez - Q3 License","West, Henderson and Ramirez",Value Proposition,14300.0,1,2,0.58,4.1,10.0,9.0,4.1,salesforce
-006fj00000GXRWTAA5,Baxter Inc - Q3 License,Baxter Inc,Prospecting,67100.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXRY5AAP,Morton-Chase - Q3 License,Morton-Chase,Prospecting,36900.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
-006fj00000GXRZhAAP,Williams PLC - Q3 License,Williams PLC,Prospecting,46200.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXReXAAX,Gray Group - Q3 License,Gray Group,Prospecting,68700.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXRgAAAX,Moon-White - Q3 License,Moon-White,Prospecting,77700.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXRhlAAH,House-Glover - Q3 License,House-Glover,Prospecting,75800.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXRmbAAH,"Daniels, Adkins and Brown - Q3 License","Daniels, Adkins and Brown",Prospecting,44900.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXRoDAAX,"Woods, Calhoun and Schmidt - Q3 License","Woods, Calhoun and Schmidt",Prospecting,47000.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXRt3AAH,"Sanchez, Wheeler and Harvey - Q3 License","Sanchez, Wheeler and Harvey",Prospecting,22800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXRufAAH,Sandoval-Cunningham - Q3 License,Sandoval-Cunningham,Value Proposition,46700.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXRwHAAX,Donovan-Harris - Q3 License,Donovan-Harris,Prospecting,13200.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
-006fj00000GXRwIAAX,"Evans, Stewart and Walton - Q3 License","Evans, Stewart and Walton",Prospecting,25900.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXRxtAAH,"Edwards, Baker and Anderson - Q3 License","Edwards, Baker and Anderson",Prospecting,29200.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXRzVAAX,Anderson-Bailey - Q3 License,Anderson-Bailey,Value Proposition,26800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXS17AAH,Suarez LLC - Q3 License,Suarez LLC,Prospecting,57600.0,1,2,0.58,4.2,10.0,9.0,4.2,salesforce
-006fj00000GXS2jAAH,"Turner, Riggs and Roman - Q3 License","Turner, Riggs and Roman",Prospecting,8200.0,1,2,0.58,8.0,9.0,8.0,8.0,salesforce
-006fj00000GXS5xAAH,Newton and Sons - Q3 License,Newton and Sons,Prospecting,10600.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
-006fj00000GXS7ZAAX,Campbell-Clark - Q3 License,Campbell-Clark,Prospecting,51600.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXS9CAAX,Meadows PLC - Q3 License,Meadows PLC,Prospecting,15000.0,1,2,0.58,4.4,9.0,8.0,4.4,salesforce
-006fj00000GXSAnAAP,Wagner-King - Q3 License,Wagner-King,Prospecting,36700.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
-006fj00000GXSE1AAP,Figueroa PLC - Q3 License,Figueroa PLC,Value Proposition,17100.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
-006fj00000GXSE2AAP,Reid Group - Q3 License,Reid Group,Value Proposition,32100.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
-006fj00000GXSIrAAP,"Tran, Jordan and Williams - Q3 License","Tran, Jordan and Williams",Prospecting,28200.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXSIsAAP,Wells Inc - Q3 License,Wells Inc,Prospecting,12000.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
-006fj00000GXSKTAA5,Nolan-Flynn - Q3 License,Nolan-Flynn,Prospecting,16800.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
-006fj00000GXSM5AAP,Nolan and Sons - Q3 License,Nolan and Sons,Prospecting,51300.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXSPJAA5,"Wright, Garcia and Deleon - Q3 License","Wright, Garcia and Deleon",Value Proposition,97700.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXSQvAAP,Dickson-Brady - Q3 License,Dickson-Brady,Value Proposition,18700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXSQwAAP,"Shields, Cochran and Adams - Q3 License","Shields, Cochran and Adams",Value Proposition,31600.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXSU9AAP,Patton-Jenkins - Q3 License,Patton-Jenkins,Prospecting,43400.0,1,2,0.58,4.5,9.0,8.0,4.5,salesforce
-006fj00000GXSYzAAP,Torres-Pope - Q3 License,Torres-Pope,Prospecting,11000.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
-006fj00000GXSabAAH,Walker Ltd - Q3 License,Walker Ltd,Prospecting,59600.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXScDAAX,Ross LLC - Q3 License,Ross LLC,Value Proposition,60500.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXSdpAAH,Rasmussen LLC - Q3 License,Rasmussen LLC,Prospecting,16100.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
-006fj00000GXSdqAAH,Bass PLC - Q3 License,Bass PLC,Prospecting,38300.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
-006fj00000GXSfRAAX,May-Ross - Q3 License,May-Ross,Prospecting,30600.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXSh3AAH,"Rivera, Johnson and Wiley - Q3 License","Rivera, Johnson and Wiley",Prospecting,51400.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXSifAAH,Johnson-Carlson - Q3 License,Johnson-Carlson,Prospecting,70100.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXSkHAAX,Chandler-Edwards - Q3 License,Chandler-Edwards,Prospecting,197000.0,1,2,0.58,3.7,8.0,7.0,3.7,salesforce
-006fj00000GXSnVAAX,"Joyce, Wilson and Lam - Q3 License","Joyce, Wilson and Lam",Prospecting,15900.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
-006fj00000GXSqjAAH,"Mcdaniel, Bentley and Mclaughlin - Q3 License","Mcdaniel, Bentley and Mclaughlin",Value Proposition,53000.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXSsLAAX,Diaz Inc - Q3 License,Diaz Inc,Value Proposition,24700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXSvZAAX,"Parker, Ortiz and Powell - Q3 License","Parker, Ortiz and Powell",Prospecting,51800.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXSxBAAX,Spencer-Lee - Q3 License,Spencer-Lee,Prospecting,18300.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXSxDAAX,Wilson-Jimenez - Q3 License,Wilson-Jimenez,Value Proposition,11800.0,1,2,0.58,3.9,9.0,8.0,3.9,salesforce
-006fj00000GXSynAAH,"Bentley, Byrd and Orr - Q3 License","Bentley, Byrd and Orr",Prospecting,117700.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXT0PAAX,"Carroll, Sullivan and Bass - Q3 License","Carroll, Sullivan and Bass",Prospecting,146400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXT3dAAH,Chambers and Sons - Q3 License,Chambers and Sons,Prospecting,30300.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXT5FAAX,Riggs PLC - Q3 License,Riggs PLC,Prospecting,29400.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXT6rAAH,Gibson Ltd - Q3 License,Gibson Ltd,Prospecting,17100.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
-006fj00000GXTA5AAP,Hernandez Ltd - Q3 License,Hernandez Ltd,Prospecting,94400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXTDKAA5,"Williams, Johnson and Wright - Q3 License","Williams, Johnson and Wright",Prospecting,48300.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXTEvAAP,Robinson-Brock - Q3 License,Robinson-Brock,Prospecting,57000.0,1,2,0.58,4.2,10.0,9.0,4.2,salesforce
-006fj00000GXTGXAA5,"Holmes, Williams and Wright - Q3 License","Holmes, Williams and Wright",Prospecting,23800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXTI9AAP,Bryant Group - Q3 License,Bryant Group,Prospecting,23800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXTJlAAP,"Schmidt, Hansen and Stewart - Q3 License","Schmidt, Hansen and Stewart",Value Proposition,56000.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXTLNAA5,Salazar-Ball - Q3 License,Salazar-Ball,Prospecting,39000.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
-006fj00000GXTLOAA5,Lewis-Murphy - Q3 License,Lewis-Murphy,Value Proposition,39900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXTObAAP,Manning Group - Q3 License,Manning Group,Value Proposition,64500.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXTQDAA5,Green-Wright - Q3 License,Green-Wright,Prospecting,22800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXTRpAAP,Hill Inc - Q3 License,Hill Inc,Value Proposition,12500.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
-006fj00000GXTTRAA5,"Mitchell, Nelson and Flores - Q3 License","Mitchell, Nelson and Flores",Prospecting,15400.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
-006fj00000GXTV4AAP,Bell-Lane - Q3 License,Bell-Lane,Prospecting,29800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXTYHAA5,Russell-Daniels - Q3 License,Russell-Daniels,Negotiation/Review,10100.0,1,2,0.58,2.9,10.0,9.0,2.9,salesforce
-006fj00000GXTZtAAP,Brown-Wall - Q3 License,Brown-Wall,Prospecting,10300.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
-006fj00000GXTbVAAX,Stein-Silva - Q3 License,Stein-Silva,Prospecting,43700.0,1,2,0.58,4.5,9.0,8.0,4.5,salesforce
-006fj00000GXTd8AAH,White-Green - Q3 License,White-Green,Prospecting,323900.0,1,2,0.58,3.7,8.0,7.0,3.7,salesforce
-006fj00000GXTejAAH,Smith-Bell - Q3 License,Smith-Bell,Prospecting,46100.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXThxAAH,"Hurst, Freeman and Nelson - Q3 License","Hurst, Freeman and Nelson",Prospecting,38700.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
-006fj00000GXTlCAAX,"Miller, Murphy and Craig - Q3 License","Miller, Murphy and Craig",Prospecting,34600.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
-006fj00000GXTmnAAH,"Yates, Ramsey and Pittman - Q3 License","Yates, Ramsey and Pittman",Value Proposition,5000.0,1,2,0.58,13.7,9.0,8.0,13.7,salesforce
-006fj00000GXToPAAX,Hooper PLC - Q3 License,Hooper PLC,Value Proposition,24700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXTtFAAX,Ramirez-Bean - Q3 License,Ramirez-Bean,Negotiation/Review,23100.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXTy5AAH,"Gould, Marshall and Scott - Q3 License","Gould, Marshall and Scott",Prospecting,43400.0,1,2,0.58,4.5,9.0,8.0,4.5,salesforce
-006fj00000GXTzhAAH,Jackson-Lawson - Q3 License,Jackson-Lawson,Prospecting,14200.0,1,2,0.58,4.1,10.0,9.0,4.1,salesforce
-006fj00000GXU1JAAX,Johnston-Odonnell - Q3 License,Johnston-Odonnell,Negotiation/Review,21300.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXU2vAAH,Vargas Ltd - Q3 License,Vargas Ltd,Prospecting,64900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXU4XAAX,Short-Garcia - Q3 License,Short-Garcia,Value Proposition,10900.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
-006fj00000GXUAzAAP,Marshall-Petersen - Q3 License,Marshall-Petersen,Prospecting,42000.0,1,2,0.58,4.9,9.0,8.0,4.9,salesforce
-006fj00000GXUCbAAP,"Adams, Christian and Rivas - Q3 License","Adams, Christian and Rivas",Prospecting,9900.0,1,2,0.58,2.9,10.0,9.0,2.9,salesforce
-006fj00000GXUEDAA5,Ramirez Group - Q3 License,Ramirez Group,Value Proposition,18900.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXUJ3AAP,Peterson-Beard - Q3 License,Peterson-Beard,Prospecting,6600.0,1,2,0.58,17.7,9.0,8.0,17.7,salesforce
-006fj00000GXUKfAAP,"Beard, Peters and Black - Q3 License","Beard, Peters and Black",Value Proposition,132800.0,1,2,0.58,4.2,8.0,7.0,4.2,salesforce
-006fj00000GXUMHAA5,Miller Ltd - Q3 License,Miller Ltd,Value Proposition,40600.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXUNtAAP,Freeman-Chang - Q3 License,Freeman-Chang,Prospecting,14800.0,1,2,0.58,4.4,9.0,8.0,4.4,salesforce
-006fj00000GXUPVAA5,"Alvarez, Joseph and West - Q3 License","Alvarez, Joseph and West",Prospecting,45600.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXUSjAAP,"Wood, Tran and Cooper - Q3 License","Wood, Tran and Cooper",Prospecting,29800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXUULAA5,"Pierce, Bell and Chavez - Q3 License","Pierce, Bell and Chavez",Prospecting,38600.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
-006fj00000GXUUMAA5,Brock-Mcdonald - Q3 License,Brock-Mcdonald,Prospecting,49000.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXUe1AAH,Perez-White - Q3 License,Perez-White,Prospecting,14500.0,1,2,0.58,4.1,10.0,9.0,4.1,salesforce
-006fj00000GXUfdAAH,Erickson and Sons - Q3 License,Erickson and Sons,Prospecting,21500.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXUfeAAH,Guerrero Inc - Q3 License,Guerrero Inc,Prospecting,86100.0,1,2,0.58,4.3,9.0,8.0,4.3,salesforce
-006fj00000GXUhFAAX,Terry-Martinez - Q3 License,Terry-Martinez,Prospecting,50100.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXUm5AAH,Wilson-Jones - Q3 License,Wilson-Jones,Prospecting,9300.0,1,2,0.58,8.0,10.0,9.0,8.0,salesforce
-006fj00000GXUnhAAH,Jones-Soto - Q3 License,Jones-Soto,Value Proposition,23400.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXUpJAAX,Hernandez PLC - Q3 License,Hernandez PLC,Prospecting,28600.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXUpKAAX,Rowe Group - Q3 License,Rowe Group,Prospecting,95900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXUqvAAH,"Duran, Obrien and Gibbs - Q3 License","Duran, Obrien and Gibbs",Prospecting,12200.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
-006fj00000GXUu9AAH,"Branch, Torres and Oliver - Q3 License","Branch, Torres and Oliver",Prospecting,37200.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
-006fj00000GXUxNAAX,"Choi, Garcia and Farmer - Q3 License","Choi, Garcia and Farmer",Prospecting,121400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXUxOAAX,"Wilson, Pena and Rich - Q3 License","Wilson, Pena and Rich",Prospecting,9700.0,1,2,0.58,4.7,10.0,9.0,4.7,salesforce
-006fj00000GXUxPAAX,"Morales, Thomas and Schultz - Q3 License","Morales, Thomas and Schultz",Prospecting,145800.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXUyzAAH,Warner-Gibson - Q3 License,Warner-Gibson,Prospecting,71500.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXV2DAAX,"Guerrero, Peck and Coleman - Q3 License","Guerrero, Peck and Coleman",Prospecting,10300.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
-006fj00000GXV8fAAH,Gonzales-Harrison - Q3 License,Gonzales-Harrison,Prospecting,80000.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
-006fj00000GXVAHAA5,Lyons-Bender - Q3 License,Lyons-Bender,Value Proposition,20600.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXVBtAAP,"Fernandez, Kim and George - Q3 License","Fernandez, Kim and George",Prospecting,28700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXVF7AAP,Davis Ltd - Q3 License,Davis Ltd,Prospecting,58600.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXVGjAAP,"Matthews, Smith and Hubbard - Q3 License","Matthews, Smith and Hubbard",Prospecting,5000.0,1,2,0.58,13.7,9.0,8.0,13.7,salesforce
-006fj00000GXVILAA5,Ruiz Ltd - Q3 License,Ruiz Ltd,Prospecting,35200.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
-006fj00000GXVJxAAP,"Graham, Olsen and Costa - Q3 License","Graham, Olsen and Costa",Prospecting,20100.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXVLZAA5,Bailey-Cook - Q3 License,Bailey-Cook,Value Proposition,6600.0,1,2,0.58,17.7,9.0,8.0,17.7,salesforce
-006fj00000GXVOnAAP,Roberts-Landry - Q3 License,Roberts-Landry,Prospecting,17900.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXVQPAA5,"Johnson, Miller and King - Q3 License","Johnson, Miller and King",Value Proposition,11500.0,1,2,0.58,3.9,9.0,8.0,3.9,salesforce
-006fj00000GXVS1AAP,"Bryan, Smith and Booth - Q3 License","Bryan, Smith and Booth",Negotiation/Review,25700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXVTdAAP,Dean-Jimenez - Q3 License,Dean-Jimenez,Prospecting,5100.0,1,2,0.58,13.7,9.0,8.0,13.7,salesforce
-006fj00000GXVVFAA5,"Anderson, Roberts and Gilmore - Q3 License","Anderson, Roberts and Gilmore",Prospecting,82400.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
-006fj00000GXVYTAA5,"Lloyd, Mckinney and Collins - Q3 License","Lloyd, Mckinney and Collins",Prospecting,12000.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
-006fj00000GXVa5AAH,Gay Inc - Q3 License,Gay Inc,Prospecting,29600.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXVbhAAH,Baird-Sanchez - Q3 License,Baird-Sanchez,Value Proposition,31700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXVevAAH,"Suarez, Shields and Hill - Q3 License","Suarez, Shields and Hill",Value Proposition,95300.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXVgXAAX,Morgan-French - Q3 License,Morgan-French,Value Proposition,52200.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXVi9AAH,Hoover-Campbell - Q3 License,Hoover-Campbell,Prospecting,55900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXVjmAAH,"Pollard, Simpson and Johnson - Q3 License","Pollard, Simpson and Johnson",Prospecting,37700.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
-006fj00000GXVlNAAX,"Burns, Hernandez and Ryan - Q3 License","Burns, Hernandez and Ryan",Prospecting,91900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXVrpAAH,"Reyes, Chase and Jenkins - Q3 License","Reyes, Chase and Jenkins",Value Proposition,52000.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXVtRAAX,Garner-Thornton - Q3 License,Garner-Thornton,Negotiation/Review,20900.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXVwfAAH,"Sanford, Rivera and Garcia - Q3 License","Sanford, Rivera and Garcia",Prospecting,43100.0,1,2,0.58,4.5,10.0,9.0,4.5,salesforce
-006fj00000GXVyHAAX,Garcia-Lozano - Q3 License,Garcia-Lozano,Prospecting,34800.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
-006fj00000GXVztAAH,Bowen Group - Q3 License,Bowen Group,Value Proposition,38100.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
-006fj00000GXW37AAH,"Booker, Jones and Harrington - Q3 License","Booker, Jones and Harrington",Prospecting,115800.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXW7xAAH,Morgan-Schwartz - Q3 License,Morgan-Schwartz,Prospecting,70100.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXW9ZAAX,"James, Stewart and Higgins - Q3 License","James, Stewart and Higgins",Value Proposition,63100.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXWBBAA5,Young Ltd - Q3 License,Young Ltd,Prospecting,40900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXWCnAAP,Bright-Francis - Q3 License,Bright-Francis,Value Proposition,126400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXWEPAA5,Howard-Jordan - Q3 License,Howard-Jordan,Prospecting,12400.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
-006fj00000GXWHdAAP,"Sparks, Jackson and Miller - Q3 License","Sparks, Jackson and Miller",Prospecting,22100.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXWKrAAP,"Thomas, Murray and King - Q3 License","Thomas, Murray and King",Value Proposition,30100.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXWMTAA5,Estrada-Nolan - Q3 License,Estrada-Nolan,Value Proposition,61200.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXWO5AAP,Jones LLC - Q3 License,Jones LLC,Prospecting,100300.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXWPhAAP,Bruce-Gonzalez - Q3 License,Bruce-Gonzalez,Prospecting,67800.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXWRJAA5,"Phillips, Spence and Barrett - Q3 License","Phillips, Spence and Barrett",Prospecting,12400.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
-006fj00000GXWUXAA5,"Beltran, Lozano and Mcgee - Q3 License","Beltran, Lozano and Mcgee",Negotiation/Review,34100.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
-006fj00000GXWW9AAP,Robinson-Lee - Q3 License,Robinson-Lee,Prospecting,11600.0,1,2,0.58,3.9,9.0,8.0,3.9,salesforce
-006fj00000GXWXlAAP,Byrd-Le - Q3 License,Byrd-Le,Prospecting,14500.0,1,2,0.58,4.1,10.0,9.0,4.1,salesforce
-006fj00000GXWeDAAX,Taylor and Sons - Q3 License,Taylor and Sons,Prospecting,17000.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
-006fj00000GXWfpAAH,"Ramsey, Whitney and Coffey - Q3 License","Ramsey, Whitney and Coffey",Prospecting,47400.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXWhRAAX,"Martinez, Richardson and Curry - Q3 License","Martinez, Richardson and Curry",Prospecting,19300.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXWkfAAH,"Turner, Ortiz and Taylor - Q3 License","Turner, Ortiz and Taylor",Prospecting,24100.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXWmHAAX,Torres Group - Q3 License,Torres Group,Value Proposition,51200.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXWntAAH,"Avery, Horton and Fernandez - Q3 License","Avery, Horton and Fernandez",Prospecting,53400.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXWpVAAX,"Newton, Moore and Perry - Q3 License","Newton, Moore and Perry",Negotiation/Review,38900.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
-006fj00000GXWr7AAH,"Wood, Ramos and Sampson - Q3 License","Wood, Ramos and Sampson",Prospecting,8700.0,1,2,0.58,8.0,9.0,8.0,8.0,salesforce
-006fj00000GXWuLAAX,Davis-Lewis - Q3 License,Davis-Lewis,Value Proposition,24500.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXWvxAAH,"Harper, Smith and Buchanan - Q3 License","Harper, Smith and Buchanan",Prospecting,28800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXWxZAAX,Zhang PLC - Q3 License,Zhang PLC,Prospecting,26700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXWzBAAX,Fernandez and Sons - Q3 License,Fernandez and Sons,Negotiation/Review,48900.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
-006fj00000GXX0nAAH,Smith and Sons - Q3 License,Smith and Sons,Value Proposition,40500.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXX41AAH,Strickland-Palmer - Q3 License,Strickland-Palmer,Prospecting,67400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXX5dAAH,Hayes and Sons - Q3 License,Hayes and Sons,Negotiation/Review,36300.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
-006fj00000GXXATAA5,Boone-Simmons - Q3 License,Boone-Simmons,Prospecting,30300.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXXC6AAP,Duran LLC - Q3 License,Duran LLC,Prospecting,36100.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
-006fj00000GXXDhAAP,Lam LLC - Q3 License,Lam LLC,Prospecting,103900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXXK9AAP,"Le, Lewis and Hayes - Q3 License","Le, Lewis and Hayes",Value Proposition,39900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXXLlAAP,Gutierrez Group - Q3 License,Gutierrez Group,Prospecting,5500.0,1,2,0.58,17.7,9.0,8.0,17.7,salesforce
-006fj00000GXXSDAA5,Reynolds Ltd - Q3 License,Reynolds Ltd,Prospecting,142000.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXXVRAA5,"Hoffman, Santiago and Jenkins - Q3 License","Hoffman, Santiago and Jenkins",Value Proposition,12700.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
-006fj00000GXXX3AAP,"Pugh, Henderson and Moon - Q3 License","Pugh, Henderson and Moon",Value Proposition,97300.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXXYfAAP,Schmitt PLC - Q3 License,Schmitt PLC,Prospecting,142900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXXaIAAX,Bruce-Villegas - Q3 License,Bruce-Villegas,Negotiation/Review,20200.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXXbtAAH,Boone LLC - Q3 License,Boone LLC,Value Proposition,87000.0,1,2,0.58,4.3,9.0,8.0,4.3,salesforce
-006fj00000GXXdVAAX,"Richardson, Farmer and Andrews - Q3 License","Richardson, Farmer and Andrews",Prospecting,16400.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
-006fj00000GXXf7AAH,"Gallegos, Adams and White - Q3 License","Gallegos, Adams and White",Prospecting,114500.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXXgjAAH,Kane PLC - Q3 License,Kane PLC,Value Proposition,14700.0,1,2,0.58,4.4,10.0,9.0,4.4,salesforce
-006fj00000GXXiLAAX,Bennett Group - Q3 License,Bennett Group,Prospecting,19400.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXXjxAAH,Moore-Collins - Q3 License,Moore-Collins,Value Proposition,22700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
-006fj00000GXXonAAH,"Miller, Ramos and Coleman - Q3 License","Miller, Ramos and Coleman",Prospecting,41400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
-006fj00000GXXqPAAX,"Ramos, Nelson and Fischer - Q3 License","Ramos, Nelson and Fischer",Value Proposition,43100.0,1,2,0.58,4.5,10.0,9.0,4.5,salesforce
-006fj00000GXXtdAAH,"Estrada, Williams and Foster - Q3 License","Estrada, Williams and Foster",Prospecting,5000.0,1,2,0.58,13.7,9.0,8.0,13.7,salesforce
-006fj00000GXXvFAAX,"Brown, Harris and Dougherty - Q3 License","Brown, Harris and Dougherty",Value Proposition,23500.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
 507549834484,"Gardner, Robinson and Lawrence - Q3 License","Gardner, Robinson and Lawrence",decisionmakerboughtin,36600.0,1,0,0.48,4.3,9.0,8.0,4.3,hubspot
 507469618385,"Henderson, Ramirez and Lewis - Q3 License","Henderson, Ramirez and Lewis",qualifiedtobuy,33300.0,1,0,0.48,3.3,9.0,8.0,3.3,hubspot
 507447482617,Garcia-James - Q3 License,Garcia-James,qualifiedtobuy,7200.0,1,0,0.48,13.8,8.0,7.0,13.8,hubspot
@@ -2732,3 +2448,287 @@ crm_id,deal_name,company_name,stage,amount,days_stalled,rep_touchpoints,client_e
 507476996309,"Ho, Garcia and Wallace - Q3 License","Ho, Garcia and Wallace",qualifiedtobuy,23900.0,1,0,0.48,3.5,9.0,8.0,3.5,hubspot
 507473344719,"Shaffer, Contreras and Christian - Q3 License","Shaffer, Contreras and Christian",qualifiedtobuy,5100.0,1,0,0.48,15.7,8.0,7.0,15.7,hubspot
 507541115067,"James, Gonzalez and Harrison - Q3 License","James, Gonzalez and Harrison",contractsent,6000.0,1,0,0.48,22.8,8.0,7.0,22.8,hubspot
+006fj00000G33g5AAB,Dickenson Mobile Generators,Dickenson plc,Qualification,15000.0,1,2,0.58,4.4,9.0,8.0,4.4,salesforce
+006fj00000G33g6AAB,United Oil Office Portable Generators,United Oil & Gas Corp.,Negotiation/Review,125000.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000G33g9AAB,Grand Hotels Kitchen Generator,Grand Hotels & Resorts Ltd,Id. Decision Makers,15000.0,1,2,0.58,4.4,9.0,8.0,4.4,salesforce
+006fj00000G33gAAAR,United Oil Refinery Generators,United Oil & Gas Corp.,Proposal/Price Quote,270000.0,1,2,0.58,3.7,8.0,7.0,3.7,salesforce
+006fj00000G33gCAAR,Grand Hotels Guest Portable Generators,Grand Hotels & Resorts Ltd,Value Proposition,250000.0,1,2,0.58,3.7,8.0,7.0,3.7,salesforce
+006fj00000G33gFAAR,Pyramid Emergency Generators,Pyramid Construction Inc.,Prospecting,100000.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000G33gGAAR,Express Logistics Portable Truck Generators,Express Logistics and Transport,Value Proposition,80000.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
+006fj00000G33gHAAR,GenePoint Lab Generators,GenePoint,Id. Decision Makers,60000.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000G33gJAAR,United Oil Installations,United Oil & Gas Corp.,Negotiation/Review,270000.0,1,2,0.58,3.7,8.0,7.0,3.7,salesforce
+006fj00000G33gPAAR,University of AZ Installations,University of Arizona,Proposal/Price Quote,100000.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000G33gQAAR,Express Logistics SLA,Express Logistics and Transport,Perception Analysis,120000.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000G33gYAAR,United Oil Plant Standby Generators,United Oil & Gas Corp.,Needs Analysis,675000.0,1,2,0.58,3.7,8.0,7.0,3.7,salesforce
+006fj00000G33gZAAR,Edge Emergency Generator,Edge Communications,Id. Decision Makers,35000.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
+006fj00000GXAVeAAP,"Harrison, Johnson and Roberts - Q3 License","Harrison, Johnson and Roberts",Prospecting,79100.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXD5LAAX,White-Estes - Q3 License,White-Estes,Prospecting,25100.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXDzmAAH,"Diaz, Gibbs and Smith - Q3 License","Diaz, Gibbs and Smith",Prospecting,36600.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
+006fj00000GXEPaAAP,"Garcia, Humphrey and Baker - Q3 License","Garcia, Humphrey and Baker",Value Proposition,89800.0,1,2,0.58,4.3,9.0,8.0,4.3,salesforce
+006fj00000GXF3uAAH,Santana-Byrd - Q3 License,Santana-Byrd,Prospecting,14400.0,1,2,0.58,4.1,10.0,9.0,4.1,salesforce
+006fj00000GXF8kAAH,"Stanley, Tucker and Lee - Q3 License","Stanley, Tucker and Lee",Prospecting,28700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXFNGAA5,Jimenez Ltd - Q3 License,Jimenez Ltd,Value Proposition,50800.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXGw2AAH,"Wood, Hunter and Peterson - Q3 License","Wood, Hunter and Peterson",Value Proposition,16900.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
+006fj00000GXGw3AAH,Wolf-Harris - Q3 License,Wolf-Harris,Prospecting,60900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXGzGAAX,"Williams, Logan and Camacho - Q3 License","Williams, Logan and Camacho",Prospecting,68600.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXH2UAAX,Spence PLC - Q3 License,Spence PLC,Value Proposition,9300.0,1,2,0.58,8.0,10.0,9.0,8.0,salesforce
+006fj00000GXHCAAA5,Walsh LLC - Q3 License,Walsh LLC,Prospecting,15900.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
+006fj00000GXIt2AAH,"Tapia, Vaughn and Lee - Q3 License","Tapia, Vaughn and Lee",Prospecting,31800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXIt3AAH,Buchanan LLC - Q3 License,Buchanan LLC,Prospecting,58600.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXJ2kAAH,Reed Group - Q3 License,Reed Group,Value Proposition,31100.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXJ9dAAH,Williams Inc - Q3 License,Williams Inc,Prospecting,17600.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXJykAAH,"Harvey, Davis and Crane - Q3 License","Harvey, Davis and Crane",Prospecting,28700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXK0MAAX,Gray-Mayo - Q3 License,Gray-Mayo,Value Proposition,26200.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXK5DAAX,Garcia LLC - Q3 License,Garcia LLC,Prospecting,62000.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXKMwAAP,Moore-Bass - Q3 License,Moore-Bass,Prospecting,21000.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXKV0AAP,Cordova Group - Q3 License,Cordova Group,Value Proposition,18000.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXKWcAAP,"Lucas, Parker and Alexander - Q3 License","Lucas, Parker and Alexander",Prospecting,13900.0,1,2,0.58,4.1,10.0,9.0,4.1,salesforce
+006fj00000GXKpzAAH,Cortez LLC - Q3 License,Cortez LLC,Prospecting,10200.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
+006fj00000GXLGHAA5,Ortiz Ltd - Q3 License,Ortiz Ltd,Prospecting,28500.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXLZ9AAP,Walker-Jones - Q3 License,Walker-Jones,Value Proposition,41600.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXLZAAA5,Sheppard LLC - Q3 License,Sheppard LLC,Prospecting,30700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXLdyAAH,Parsons-Hall - Q3 License,Parsons-Hall,Prospecting,46300.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXLyPAAX,Sanders-Espinoza - Q3 License,Sanders-Espinoza,Value Proposition,23500.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXLzSAAX,Garcia-Jennings - Q3 License,Garcia-Jennings,Value Proposition,54500.0,1,2,0.58,4.2,10.0,9.0,4.2,salesforce
+006fj00000GXM13AAH,"Walter, Edwards and Rios - Q3 License","Walter, Edwards and Rios",Prospecting,72700.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXM14AAH,Ware and Sons - Q3 License,Ware and Sons,Prospecting,103100.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXMlKAAX,Lopez-Martinez - Q3 License,Lopez-Martinez,Value Proposition,13200.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
+006fj00000GXN0LAAX,Blair PLC - Q3 License,Blair PLC,Value Proposition,13000.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
+006fj00000GXNKoAAP,Smith PLC - Q3 License,Smith PLC,Prospecting,35600.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
+006fj00000GXNT4AAP,Hernandez Inc - Q3 License,Hernandez Inc,Prospecting,6400.0,1,2,0.58,17.7,9.0,8.0,17.7,salesforce
+006fj00000GXNawAAH,"Ferrell, Rice and Maddox - Q3 License","Ferrell, Rice and Maddox",Prospecting,39100.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
+006fj00000GXNeAAAX,Jones PLC - Q3 License,Jones PLC,Prospecting,38800.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
+006fj00000GXNfmAAH,"Smith, Garrison and Thomas - Q3 License","Smith, Garrison and Thomas",Value Proposition,10400.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
+006fj00000GXNxWAAX,Good-Hodges - Q3 License,Good-Hodges,Prospecting,25000.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXOC2AAP,Carlson-Cruz - Q3 License,Carlson-Cruz,Prospecting,13800.0,1,2,0.58,3.7,10.0,9.0,3.7,salesforce
+006fj00000GXODeAAP,"Shaw, Nelson and Martin - Q3 License","Shaw, Nelson and Martin",Prospecting,11100.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
+006fj00000GXODfAAP,Edwards-Scott - Q3 License,Edwards-Scott,Prospecting,60400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXOHOAA5,King-Martinez - Q3 License,King-Martinez,Prospecting,62300.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXOdSAAX,"Flowers, Martin and Kelly - Q3 License","Flowers, Martin and Kelly",Prospecting,7600.0,1,2,0.58,8.7,9.0,8.0,8.7,salesforce
+006fj00000GXOsTAAX,Williams-Brown - Q3 License,Williams-Brown,Prospecting,13400.0,1,2,0.58,3.0,10.0,9.0,3.0,salesforce
+006fj00000GXOu5AAH,"Mcclure, Ward and Lee - Q3 License","Mcclure, Ward and Lee",Prospecting,72400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXPBKAA5,"Clark, Guerrero and Moore - Q3 License","Clark, Guerrero and Moore",Value Proposition,40000.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXPMcAAP,"Lee, Horton and Snyder - Q3 License","Lee, Horton and Snyder",Value Proposition,20000.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXPi5AAH,"Burke, Martinez and Riggs - Q3 License","Burke, Martinez and Riggs",Prospecting,11000.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
+006fj00000GXPq9AAH,Stafford Inc - Q3 License,Stafford Inc,Negotiation/Review,10900.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
+006fj00000GXPqAAAX,"Brennan, Wallace and Benson - Q3 License","Brennan, Wallace and Benson",Prospecting,15100.0,1,2,0.58,4.4,9.0,8.0,4.4,salesforce
+006fj00000GXQIgAAP,"Evans, Hayden and Vaughn - Q3 License","Evans, Hayden and Vaughn",Negotiation/Review,44700.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXQLuAAP,Williams-Cook - Q3 License,Williams-Cook,Prospecting,24600.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXQNVAA5,"Gardner, Robinson and Lawrence - Q3 License","Gardner, Robinson and Lawrence",Prospecting,36600.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
+006fj00000GXQP8AAP,Burton Ltd - Q3 License,Burton Ltd,Value Proposition,13800.0,1,2,0.58,3.7,10.0,9.0,3.7,salesforce
+006fj00000GXQQjAAP,"Henderson, Ramirez and Lewis - Q3 License","Henderson, Ramirez and Lewis",Prospecting,33300.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
+006fj00000GXQSLAA5,Garcia-James - Q3 License,Garcia-James,Prospecting,7200.0,1,2,0.58,10.7,9.0,8.0,10.7,salesforce
+006fj00000GXQTxAAP,Abbott-Munoz - Q3 License,Abbott-Munoz,Prospecting,41200.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXQVZAA5,Dudley Group - Q3 License,Dudley Group,Prospecting,10100.0,1,2,0.58,2.9,10.0,9.0,2.9,salesforce
+006fj00000GXQXCAA5,"Lawson, Morris and Ramos - Q3 License","Lawson, Morris and Ramos",Prospecting,19200.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXQXDAA5,Brennan-Johnson - Q3 License,Brennan-Johnson,Prospecting,13000.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
+006fj00000GXQYnAAP,Williams and Sons - Q3 License,Williams and Sons,Prospecting,18000.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXQaPAAX,Galloway-Wyatt - Q3 License,Galloway-Wyatt,Value Proposition,101400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXQc1AAH,James Group - Q3 License,James Group,Prospecting,19400.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXQddAAH,"Adams, Zuniga and Wong - Q3 License","Adams, Zuniga and Wong",Prospecting,12200.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
+006fj00000GXQfFAAX,"Reid, Ferguson and Sanchez - Q3 License","Reid, Ferguson and Sanchez",Value Proposition,79900.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
+006fj00000GXQfGAAX,Morales-Jones - Q3 License,Morales-Jones,Value Proposition,44400.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXQlhAAH,"Hoffman, Baker and Richards - Q3 License","Hoffman, Baker and Richards",Prospecting,10300.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
+006fj00000GXQliAAH,Johnston-Hines - Q3 License,Johnston-Hines,Negotiation/Review,18300.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXQnJAAX,"Ross, Robinson and Bright - Q3 License","Ross, Robinson and Bright",Prospecting,21400.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXQtlAAH,Smith-Bowen - Q3 License,Smith-Bowen,Value Proposition,24700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXQvNAAX,"Baker, Mason and White - Q3 License","Baker, Mason and White",Value Proposition,14200.0,1,2,0.58,4.1,10.0,9.0,4.1,salesforce
+006fj00000GXR0DAAX,Ryan PLC - Q3 License,Ryan PLC,Prospecting,6800.0,1,2,0.58,12.7,9.0,8.0,12.7,salesforce
+006fj00000GXR1pAAH,Rodriguez LLC - Q3 License,Rodriguez LLC,Prospecting,9000.0,1,2,0.58,8.0,10.0,9.0,8.0,salesforce
+006fj00000GXR3RAAX,Allen-Allen - Q3 License,Allen-Allen,Prospecting,17700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXR3SAAX,"Arroyo, Miller and Tucker - Q3 License","Arroyo, Miller and Tucker",Negotiation/Review,27800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXR6fAAH,"Martin, Rose and Obrien - Q3 License","Martin, Rose and Obrien",Prospecting,13300.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
+006fj00000GXR6gAAH,Miller-Wright - Q3 License,Miller-Wright,Prospecting,242000.0,1,2,0.58,3.7,8.0,7.0,3.7,salesforce
+006fj00000GXR8HAAX,Hickman Ltd - Q3 License,Hickman Ltd,Value Proposition,35100.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
+006fj00000GXR9tAAH,Walker LLC - Q3 License,Walker LLC,Prospecting,34300.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
+006fj00000GXRBVAA5,Chapman and Sons - Q3 License,Chapman and Sons,Prospecting,19200.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXRD7AAP,"Robinson, Jones and Welch - Q3 License","Robinson, Jones and Welch",Prospecting,23900.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXREjAAP,Jones Inc - Q3 License,Jones Inc,Prospecting,113400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXRLBAA5,"Johnston, Sanchez and Kennedy - Q3 License","Johnston, Sanchez and Kennedy",Prospecting,57700.0,1,2,0.58,4.2,10.0,9.0,4.2,salesforce
+006fj00000GXRMnAAP,Lee-Davis - Q3 License,Lee-Davis,Prospecting,56900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXROPAA5,Gomez-Jenkins - Q3 License,Gomez-Jenkins,Prospecting,11900.0,1,2,0.58,3.9,9.0,8.0,3.9,salesforce
+006fj00000GXRQ2AAP,"Lewis, Kennedy and Santana - Q3 License","Lewis, Kennedy and Santana",Value Proposition,59100.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXRQ3AAP,"Diaz, Anderson and Browning - Q3 License","Diaz, Anderson and Browning",Prospecting,43100.0,1,2,0.58,4.5,10.0,9.0,4.5,salesforce
+006fj00000GXRRdAAP,Powell LLC - Q3 License,Powell LLC,Prospecting,101800.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXRTFAA5,Wright and Sons - Q3 License,Wright and Sons,Value Proposition,12100.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
+006fj00000GXRUrAAP,"West, Henderson and Ramirez - Q3 License","West, Henderson and Ramirez",Value Proposition,14300.0,1,2,0.58,4.1,10.0,9.0,4.1,salesforce
+006fj00000GXRWTAA5,Baxter Inc - Q3 License,Baxter Inc,Prospecting,67100.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXRY5AAP,Morton-Chase - Q3 License,Morton-Chase,Prospecting,36900.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
+006fj00000GXRZhAAP,Williams PLC - Q3 License,Williams PLC,Prospecting,46200.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXReXAAX,Gray Group - Q3 License,Gray Group,Prospecting,68700.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXRgAAAX,Moon-White - Q3 License,Moon-White,Prospecting,77700.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXRhlAAH,House-Glover - Q3 License,House-Glover,Prospecting,75800.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXRmbAAH,"Daniels, Adkins and Brown - Q3 License","Daniels, Adkins and Brown",Prospecting,44900.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXRoDAAX,"Woods, Calhoun and Schmidt - Q3 License","Woods, Calhoun and Schmidt",Prospecting,47000.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXRt3AAH,"Sanchez, Wheeler and Harvey - Q3 License","Sanchez, Wheeler and Harvey",Prospecting,22800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXRufAAH,Sandoval-Cunningham - Q3 License,Sandoval-Cunningham,Value Proposition,46700.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXRwHAAX,Donovan-Harris - Q3 License,Donovan-Harris,Prospecting,13200.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
+006fj00000GXRwIAAX,"Evans, Stewart and Walton - Q3 License","Evans, Stewart and Walton",Prospecting,25900.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXRxtAAH,"Edwards, Baker and Anderson - Q3 License","Edwards, Baker and Anderson",Prospecting,29200.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXRzVAAX,Anderson-Bailey - Q3 License,Anderson-Bailey,Value Proposition,26800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXS17AAH,Suarez LLC - Q3 License,Suarez LLC,Prospecting,57600.0,1,2,0.58,4.2,10.0,9.0,4.2,salesforce
+006fj00000GXS2jAAH,"Turner, Riggs and Roman - Q3 License","Turner, Riggs and Roman",Prospecting,8200.0,1,2,0.58,8.0,9.0,8.0,8.0,salesforce
+006fj00000GXS5xAAH,Newton and Sons - Q3 License,Newton and Sons,Prospecting,10600.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
+006fj00000GXS7ZAAX,Campbell-Clark - Q3 License,Campbell-Clark,Prospecting,51600.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXS9CAAX,Meadows PLC - Q3 License,Meadows PLC,Prospecting,15000.0,1,2,0.58,4.4,9.0,8.0,4.4,salesforce
+006fj00000GXSAnAAP,Wagner-King - Q3 License,Wagner-King,Prospecting,36700.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
+006fj00000GXSE1AAP,Figueroa PLC - Q3 License,Figueroa PLC,Value Proposition,17100.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
+006fj00000GXSE2AAP,Reid Group - Q3 License,Reid Group,Value Proposition,32100.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
+006fj00000GXSIrAAP,"Tran, Jordan and Williams - Q3 License","Tran, Jordan and Williams",Prospecting,28200.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXSIsAAP,Wells Inc - Q3 License,Wells Inc,Prospecting,12000.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
+006fj00000GXSKTAA5,Nolan-Flynn - Q3 License,Nolan-Flynn,Prospecting,16800.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
+006fj00000GXSM5AAP,Nolan and Sons - Q3 License,Nolan and Sons,Prospecting,51300.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXSPJAA5,"Wright, Garcia and Deleon - Q3 License","Wright, Garcia and Deleon",Value Proposition,97700.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXSQvAAP,Dickson-Brady - Q3 License,Dickson-Brady,Value Proposition,18700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXSQwAAP,"Shields, Cochran and Adams - Q3 License","Shields, Cochran and Adams",Value Proposition,31600.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXSU9AAP,Patton-Jenkins - Q3 License,Patton-Jenkins,Prospecting,43400.0,1,2,0.58,4.5,9.0,8.0,4.5,salesforce
+006fj00000GXSYzAAP,Torres-Pope - Q3 License,Torres-Pope,Prospecting,11000.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
+006fj00000GXSabAAH,Walker Ltd - Q3 License,Walker Ltd,Prospecting,59600.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXScDAAX,Ross LLC - Q3 License,Ross LLC,Value Proposition,60500.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXSdpAAH,Rasmussen LLC - Q3 License,Rasmussen LLC,Prospecting,16100.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
+006fj00000GXSdqAAH,Bass PLC - Q3 License,Bass PLC,Prospecting,38300.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
+006fj00000GXSfRAAX,May-Ross - Q3 License,May-Ross,Prospecting,30600.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXSh3AAH,"Rivera, Johnson and Wiley - Q3 License","Rivera, Johnson and Wiley",Prospecting,51400.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXSifAAH,Johnson-Carlson - Q3 License,Johnson-Carlson,Prospecting,70100.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXSkHAAX,Chandler-Edwards - Q3 License,Chandler-Edwards,Prospecting,197000.0,1,2,0.58,3.7,8.0,7.0,3.7,salesforce
+006fj00000GXSnVAAX,"Joyce, Wilson and Lam - Q3 License","Joyce, Wilson and Lam",Prospecting,15900.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
+006fj00000GXSqjAAH,"Mcdaniel, Bentley and Mclaughlin - Q3 License","Mcdaniel, Bentley and Mclaughlin",Value Proposition,53000.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXSsLAAX,Diaz Inc - Q3 License,Diaz Inc,Value Proposition,24700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXSvZAAX,"Parker, Ortiz and Powell - Q3 License","Parker, Ortiz and Powell",Prospecting,51800.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXSxBAAX,Spencer-Lee - Q3 License,Spencer-Lee,Prospecting,18300.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXSxDAAX,Wilson-Jimenez - Q3 License,Wilson-Jimenez,Value Proposition,11800.0,1,2,0.58,3.9,9.0,8.0,3.9,salesforce
+006fj00000GXSynAAH,"Bentley, Byrd and Orr - Q3 License","Bentley, Byrd and Orr",Prospecting,117700.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXT0PAAX,"Carroll, Sullivan and Bass - Q3 License","Carroll, Sullivan and Bass",Prospecting,146400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXT3dAAH,Chambers and Sons - Q3 License,Chambers and Sons,Prospecting,30300.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXT5FAAX,Riggs PLC - Q3 License,Riggs PLC,Prospecting,29400.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXT6rAAH,Gibson Ltd - Q3 License,Gibson Ltd,Prospecting,17100.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
+006fj00000GXTA5AAP,Hernandez Ltd - Q3 License,Hernandez Ltd,Prospecting,94400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXTDKAA5,"Williams, Johnson and Wright - Q3 License","Williams, Johnson and Wright",Prospecting,48300.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXTEvAAP,Robinson-Brock - Q3 License,Robinson-Brock,Prospecting,57000.0,1,2,0.58,4.2,10.0,9.0,4.2,salesforce
+006fj00000GXTGXAA5,"Holmes, Williams and Wright - Q3 License","Holmes, Williams and Wright",Prospecting,23800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXTI9AAP,Bryant Group - Q3 License,Bryant Group,Prospecting,23800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXTJlAAP,"Schmidt, Hansen and Stewart - Q3 License","Schmidt, Hansen and Stewart",Value Proposition,56000.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXTLNAA5,Salazar-Ball - Q3 License,Salazar-Ball,Prospecting,39000.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
+006fj00000GXTLOAA5,Lewis-Murphy - Q3 License,Lewis-Murphy,Value Proposition,39900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXTObAAP,Manning Group - Q3 License,Manning Group,Value Proposition,64500.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXTQDAA5,Green-Wright - Q3 License,Green-Wright,Prospecting,22800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXTRpAAP,Hill Inc - Q3 License,Hill Inc,Value Proposition,12500.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
+006fj00000GXTTRAA5,"Mitchell, Nelson and Flores - Q3 License","Mitchell, Nelson and Flores",Prospecting,15400.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
+006fj00000GXTV4AAP,Bell-Lane - Q3 License,Bell-Lane,Prospecting,29800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXTYHAA5,Russell-Daniels - Q3 License,Russell-Daniels,Negotiation/Review,10100.0,1,2,0.58,2.9,10.0,9.0,2.9,salesforce
+006fj00000GXTZtAAP,Brown-Wall - Q3 License,Brown-Wall,Prospecting,10300.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
+006fj00000GXTbVAAX,Stein-Silva - Q3 License,Stein-Silva,Prospecting,43700.0,1,2,0.58,4.5,9.0,8.0,4.5,salesforce
+006fj00000GXTd8AAH,White-Green - Q3 License,White-Green,Prospecting,323900.0,1,2,0.58,3.7,8.0,7.0,3.7,salesforce
+006fj00000GXTejAAH,Smith-Bell - Q3 License,Smith-Bell,Prospecting,46100.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXThxAAH,"Hurst, Freeman and Nelson - Q3 License","Hurst, Freeman and Nelson",Prospecting,38700.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
+006fj00000GXTlCAAX,"Miller, Murphy and Craig - Q3 License","Miller, Murphy and Craig",Prospecting,34600.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
+006fj00000GXTmnAAH,"Yates, Ramsey and Pittman - Q3 License","Yates, Ramsey and Pittman",Value Proposition,5000.0,1,2,0.58,13.7,9.0,8.0,13.7,salesforce
+006fj00000GXToPAAX,Hooper PLC - Q3 License,Hooper PLC,Value Proposition,24700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXTtFAAX,Ramirez-Bean - Q3 License,Ramirez-Bean,Negotiation/Review,23100.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXTy5AAH,"Gould, Marshall and Scott - Q3 License","Gould, Marshall and Scott",Prospecting,43400.0,1,2,0.58,4.5,9.0,8.0,4.5,salesforce
+006fj00000GXTzhAAH,Jackson-Lawson - Q3 License,Jackson-Lawson,Prospecting,14200.0,1,2,0.58,4.1,10.0,9.0,4.1,salesforce
+006fj00000GXU1JAAX,Johnston-Odonnell - Q3 License,Johnston-Odonnell,Negotiation/Review,21300.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXU2vAAH,Vargas Ltd - Q3 License,Vargas Ltd,Prospecting,64900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXU4XAAX,Short-Garcia - Q3 License,Short-Garcia,Value Proposition,10900.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
+006fj00000GXUAzAAP,Marshall-Petersen - Q3 License,Marshall-Petersen,Prospecting,42000.0,1,2,0.58,4.9,9.0,8.0,4.9,salesforce
+006fj00000GXUCbAAP,"Adams, Christian and Rivas - Q3 License","Adams, Christian and Rivas",Prospecting,9900.0,1,2,0.58,2.9,10.0,9.0,2.9,salesforce
+006fj00000GXUEDAA5,Ramirez Group - Q3 License,Ramirez Group,Value Proposition,18900.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXUJ3AAP,Peterson-Beard - Q3 License,Peterson-Beard,Prospecting,6600.0,1,2,0.58,17.7,9.0,8.0,17.7,salesforce
+006fj00000GXUKfAAP,"Beard, Peters and Black - Q3 License","Beard, Peters and Black",Value Proposition,132800.0,1,2,0.58,4.2,8.0,7.0,4.2,salesforce
+006fj00000GXUMHAA5,Miller Ltd - Q3 License,Miller Ltd,Value Proposition,40600.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXUNtAAP,Freeman-Chang - Q3 License,Freeman-Chang,Prospecting,14800.0,1,2,0.58,4.4,9.0,8.0,4.4,salesforce
+006fj00000GXUPVAA5,"Alvarez, Joseph and West - Q3 License","Alvarez, Joseph and West",Prospecting,45600.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXUSjAAP,"Wood, Tran and Cooper - Q3 License","Wood, Tran and Cooper",Prospecting,29800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXUULAA5,"Pierce, Bell and Chavez - Q3 License","Pierce, Bell and Chavez",Prospecting,38600.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
+006fj00000GXUUMAA5,Brock-Mcdonald - Q3 License,Brock-Mcdonald,Prospecting,49000.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXUe1AAH,Perez-White - Q3 License,Perez-White,Prospecting,14500.0,1,2,0.58,4.1,10.0,9.0,4.1,salesforce
+006fj00000GXUfdAAH,Erickson and Sons - Q3 License,Erickson and Sons,Prospecting,21500.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXUfeAAH,Guerrero Inc - Q3 License,Guerrero Inc,Prospecting,86100.0,1,2,0.58,4.3,9.0,8.0,4.3,salesforce
+006fj00000GXUhFAAX,Terry-Martinez - Q3 License,Terry-Martinez,Prospecting,50100.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXUm5AAH,Wilson-Jones - Q3 License,Wilson-Jones,Prospecting,9300.0,1,2,0.58,8.0,10.0,9.0,8.0,salesforce
+006fj00000GXUnhAAH,Jones-Soto - Q3 License,Jones-Soto,Value Proposition,23400.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXUpJAAX,Hernandez PLC - Q3 License,Hernandez PLC,Prospecting,28600.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXUpKAAX,Rowe Group - Q3 License,Rowe Group,Prospecting,95900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXUqvAAH,"Duran, Obrien and Gibbs - Q3 License","Duran, Obrien and Gibbs",Prospecting,12200.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
+006fj00000GXUu9AAH,"Branch, Torres and Oliver - Q3 License","Branch, Torres and Oliver",Prospecting,37200.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
+006fj00000GXUxNAAX,"Choi, Garcia and Farmer - Q3 License","Choi, Garcia and Farmer",Prospecting,121400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXUxOAAX,"Wilson, Pena and Rich - Q3 License","Wilson, Pena and Rich",Prospecting,9700.0,1,2,0.58,4.7,10.0,9.0,4.7,salesforce
+006fj00000GXUxPAAX,"Morales, Thomas and Schultz - Q3 License","Morales, Thomas and Schultz",Prospecting,145800.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXUyzAAH,Warner-Gibson - Q3 License,Warner-Gibson,Prospecting,71500.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXV2DAAX,"Guerrero, Peck and Coleman - Q3 License","Guerrero, Peck and Coleman",Prospecting,10300.0,1,2,0.58,2.9,9.0,8.0,2.9,salesforce
+006fj00000GXV8fAAH,Gonzales-Harrison - Q3 License,Gonzales-Harrison,Prospecting,80000.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
+006fj00000GXVAHAA5,Lyons-Bender - Q3 License,Lyons-Bender,Value Proposition,20600.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXVBtAAP,"Fernandez, Kim and George - Q3 License","Fernandez, Kim and George",Prospecting,28700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXVF7AAP,Davis Ltd - Q3 License,Davis Ltd,Prospecting,58600.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXVGjAAP,"Matthews, Smith and Hubbard - Q3 License","Matthews, Smith and Hubbard",Prospecting,5000.0,1,2,0.58,13.7,9.0,8.0,13.7,salesforce
+006fj00000GXVILAA5,Ruiz Ltd - Q3 License,Ruiz Ltd,Prospecting,35200.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
+006fj00000GXVJxAAP,"Graham, Olsen and Costa - Q3 License","Graham, Olsen and Costa",Prospecting,20100.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXVLZAA5,Bailey-Cook - Q3 License,Bailey-Cook,Value Proposition,6600.0,1,2,0.58,17.7,9.0,8.0,17.7,salesforce
+006fj00000GXVOnAAP,Roberts-Landry - Q3 License,Roberts-Landry,Prospecting,17900.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXVQPAA5,"Johnson, Miller and King - Q3 License","Johnson, Miller and King",Value Proposition,11500.0,1,2,0.58,3.9,9.0,8.0,3.9,salesforce
+006fj00000GXVS1AAP,"Bryan, Smith and Booth - Q3 License","Bryan, Smith and Booth",Negotiation/Review,25700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXVTdAAP,Dean-Jimenez - Q3 License,Dean-Jimenez,Prospecting,5100.0,1,2,0.58,13.7,9.0,8.0,13.7,salesforce
+006fj00000GXVVFAA5,"Anderson, Roberts and Gilmore - Q3 License","Anderson, Roberts and Gilmore",Prospecting,82400.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
+006fj00000GXVYTAA5,"Lloyd, Mckinney and Collins - Q3 License","Lloyd, Mckinney and Collins",Prospecting,12000.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
+006fj00000GXVa5AAH,Gay Inc - Q3 License,Gay Inc,Prospecting,29600.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXVbhAAH,Baird-Sanchez - Q3 License,Baird-Sanchez,Value Proposition,31700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXVevAAH,"Suarez, Shields and Hill - Q3 License","Suarez, Shields and Hill",Value Proposition,95300.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXVgXAAX,Morgan-French - Q3 License,Morgan-French,Value Proposition,52200.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXVi9AAH,Hoover-Campbell - Q3 License,Hoover-Campbell,Prospecting,55900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXVjmAAH,"Pollard, Simpson and Johnson - Q3 License","Pollard, Simpson and Johnson",Prospecting,37700.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
+006fj00000GXVlNAAX,"Burns, Hernandez and Ryan - Q3 License","Burns, Hernandez and Ryan",Prospecting,91900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXVrpAAH,"Reyes, Chase and Jenkins - Q3 License","Reyes, Chase and Jenkins",Value Proposition,52000.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXVtRAAX,Garner-Thornton - Q3 License,Garner-Thornton,Negotiation/Review,20900.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXVwfAAH,"Sanford, Rivera and Garcia - Q3 License","Sanford, Rivera and Garcia",Prospecting,43100.0,1,2,0.58,4.5,10.0,9.0,4.5,salesforce
+006fj00000GXVyHAAX,Garcia-Lozano - Q3 License,Garcia-Lozano,Prospecting,34800.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
+006fj00000GXVztAAH,Bowen Group - Q3 License,Bowen Group,Value Proposition,38100.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
+006fj00000GXW37AAH,"Booker, Jones and Harrington - Q3 License","Booker, Jones and Harrington",Prospecting,115800.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXW7xAAH,Morgan-Schwartz - Q3 License,Morgan-Schwartz,Prospecting,70100.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXW9ZAAX,"James, Stewart and Higgins - Q3 License","James, Stewart and Higgins",Value Proposition,63100.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXWBBAA5,Young Ltd - Q3 License,Young Ltd,Prospecting,40900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXWCnAAP,Bright-Francis - Q3 License,Bright-Francis,Value Proposition,126400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXWEPAA5,Howard-Jordan - Q3 License,Howard-Jordan,Prospecting,12400.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
+006fj00000GXWHdAAP,"Sparks, Jackson and Miller - Q3 License","Sparks, Jackson and Miller",Prospecting,22100.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXWKrAAP,"Thomas, Murray and King - Q3 License","Thomas, Murray and King",Value Proposition,30100.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXWMTAA5,Estrada-Nolan - Q3 License,Estrada-Nolan,Value Proposition,61200.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXWO5AAP,Jones LLC - Q3 License,Jones LLC,Prospecting,100300.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXWPhAAP,Bruce-Gonzalez - Q3 License,Bruce-Gonzalez,Prospecting,67800.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXWRJAA5,"Phillips, Spence and Barrett - Q3 License","Phillips, Spence and Barrett",Prospecting,12400.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
+006fj00000GXWUXAA5,"Beltran, Lozano and Mcgee - Q3 License","Beltran, Lozano and Mcgee",Negotiation/Review,34100.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
+006fj00000GXWW9AAP,Robinson-Lee - Q3 License,Robinson-Lee,Prospecting,11600.0,1,2,0.58,3.9,9.0,8.0,3.9,salesforce
+006fj00000GXWXlAAP,Byrd-Le - Q3 License,Byrd-Le,Prospecting,14500.0,1,2,0.58,4.1,10.0,9.0,4.1,salesforce
+006fj00000GXWeDAAX,Taylor and Sons - Q3 License,Taylor and Sons,Prospecting,17000.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
+006fj00000GXWfpAAH,"Ramsey, Whitney and Coffey - Q3 License","Ramsey, Whitney and Coffey",Prospecting,47400.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXWhRAAX,"Martinez, Richardson and Curry - Q3 License","Martinez, Richardson and Curry",Prospecting,19300.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXWkfAAH,"Turner, Ortiz and Taylor - Q3 License","Turner, Ortiz and Taylor",Prospecting,24100.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXWmHAAX,Torres Group - Q3 License,Torres Group,Value Proposition,51200.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXWntAAH,"Avery, Horton and Fernandez - Q3 License","Avery, Horton and Fernandez",Prospecting,53400.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXWpVAAX,"Newton, Moore and Perry - Q3 License","Newton, Moore and Perry",Negotiation/Review,38900.0,1,2,0.58,3.8,9.0,8.0,3.8,salesforce
+006fj00000GXWr7AAH,"Wood, Ramos and Sampson - Q3 License","Wood, Ramos and Sampson",Prospecting,8700.0,1,2,0.58,8.0,9.0,8.0,8.0,salesforce
+006fj00000GXWuLAAX,Davis-Lewis - Q3 License,Davis-Lewis,Value Proposition,24500.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXWvxAAH,"Harper, Smith and Buchanan - Q3 License","Harper, Smith and Buchanan",Prospecting,28800.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXWxZAAX,Zhang PLC - Q3 License,Zhang PLC,Prospecting,26700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXWzBAAX,Fernandez and Sons - Q3 License,Fernandez and Sons,Negotiation/Review,48900.0,1,2,0.58,3.9,10.0,9.0,3.9,salesforce
+006fj00000GXX0nAAH,Smith and Sons - Q3 License,Smith and Sons,Value Proposition,40500.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXX41AAH,Strickland-Palmer - Q3 License,Strickland-Palmer,Prospecting,67400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXX5dAAH,Hayes and Sons - Q3 License,Hayes and Sons,Negotiation/Review,36300.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
+006fj00000GXXATAA5,Boone-Simmons - Q3 License,Boone-Simmons,Prospecting,30300.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXXC6AAP,Duran LLC - Q3 License,Duran LLC,Prospecting,36100.0,1,2,0.58,3.8,10.0,9.0,3.8,salesforce
+006fj00000GXXDhAAP,Lam LLC - Q3 License,Lam LLC,Prospecting,103900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXXK9AAP,"Le, Lewis and Hayes - Q3 License","Le, Lewis and Hayes",Value Proposition,39900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXXLlAAP,Gutierrez Group - Q3 License,Gutierrez Group,Prospecting,5500.0,1,2,0.58,17.7,9.0,8.0,17.7,salesforce
+006fj00000GXXSDAA5,Reynolds Ltd - Q3 License,Reynolds Ltd,Prospecting,142000.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXXVRAA5,"Hoffman, Santiago and Jenkins - Q3 License","Hoffman, Santiago and Jenkins",Value Proposition,12700.0,1,2,0.58,3.0,9.0,8.0,3.0,salesforce
+006fj00000GXXX3AAP,"Pugh, Henderson and Moon - Q3 License","Pugh, Henderson and Moon",Value Proposition,97300.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXXYfAAP,Schmitt PLC - Q3 License,Schmitt PLC,Prospecting,142900.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXXaIAAX,Bruce-Villegas - Q3 License,Bruce-Villegas,Negotiation/Review,20200.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXXbtAAH,Boone LLC - Q3 License,Boone LLC,Value Proposition,87000.0,1,2,0.58,4.3,9.0,8.0,4.3,salesforce
+006fj00000GXXdVAAX,"Richardson, Farmer and Andrews - Q3 License","Richardson, Farmer and Andrews",Prospecting,16400.0,1,2,0.58,4.0,9.0,8.0,4.0,salesforce
+006fj00000GXXf7AAH,"Gallegos, Adams and White - Q3 License","Gallegos, Adams and White",Prospecting,114500.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXXgjAAH,Kane PLC - Q3 License,Kane PLC,Value Proposition,14700.0,1,2,0.58,4.4,10.0,9.0,4.4,salesforce
+006fj00000GXXiLAAX,Bennett Group - Q3 License,Bennett Group,Prospecting,19400.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXXjxAAH,Moore-Collins - Q3 License,Moore-Collins,Value Proposition,22700.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
+006fj00000GXXonAAH,"Miller, Ramos and Coleman - Q3 License","Miller, Ramos and Coleman",Prospecting,41400.0,1,2,0.58,4.2,9.0,8.0,4.2,salesforce
+006fj00000GXXqPAAX,"Ramos, Nelson and Fischer - Q3 License","Ramos, Nelson and Fischer",Value Proposition,43100.0,1,2,0.58,4.5,10.0,9.0,4.5,salesforce
+006fj00000GXXtdAAH,"Estrada, Williams and Foster - Q3 License","Estrada, Williams and Foster",Prospecting,5000.0,1,2,0.58,13.7,9.0,8.0,13.7,salesforce
+006fj00000GXXvFAAX,"Brown, Harris and Dougherty - Q3 License","Brown, Harris and Dougherty",Value Proposition,23500.0,1,2,0.58,4.0,10.0,9.0,4.0,salesforce
