@@ -36,7 +36,7 @@ This platform enables RevOps teams to:
 - **Dual-Engine ML Models**: Random Forest Classifier (churn) and Regressor (velocity)
 - **Forward ETL**: Extract live deals from HubSpot/Salesforce
 - **Reverse ETL**: Push AI predictions back to CRM
-- **Executive Dashboard**: Real-time visualization of pipeline health
+- **Executive Dashboard**: Real-time visualization of pipeline health with live API (hosted on Render)
 
 ---
 
@@ -95,9 +95,10 @@ revenue-metrics/
 
 ---
 
-### 1. Clone or Navigate to Project Folder
-```powershell
-cd "c:\Users\user\OneDrive\Desktop\Revenue Metrics"
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Ogezi-Emmanuel/Revenue-Metrics.git
+cd Revenue-Metrics
 ```
 
 ---
@@ -149,19 +150,26 @@ This creates `synthetic_pipeline_payload.csv` in both `etl_pipeline/` and `ml_se
 
 ## Usage Instructions
 
-### Option A: Run ML Service and Dashboard (Standalone)
-1. **Start FastAPI Server**
+### Option A: Use Live Dashboard
+1. **Open Dashboard**
+Open `frontend/index.html` in any browser - it will connect to the live API hosted on Render!
+
+### Option B: Run ML Service and Dashboard (Standalone)
+1. **Update API_URL** (in `frontend/app.js`)
+Change the API_URL from `https://revops-inference-engines.onrender.com` to `http://127.0.0.1:8000`
+
+2. **Start FastAPI Server**
 ```bash
 cd ml_service
 uvicorn main:app --reload
 ```
 
-2. **Open Dashboard**
+3. **Open Dashboard**
 Open `frontend/index.html` in any browser.
 
 ---
 
-### Option B: Full-Loop CRM Sync
+### Option C: Full-Loop CRM Sync
 #### Step 1: Provision HubSpot Custom Property (HubSpot Only)
 ```bash
 cd etl_pipeline
@@ -179,7 +187,7 @@ python -m master_orchestrator --target salesforce
 
 ---
 
-### Option C: Retrain ML Models
+### Option D: Retrain ML Models
 ```bash
 cd ml_service
 python train_models.py
@@ -204,18 +212,14 @@ Requires `synthetic_pipeline_payload.csv` in the `ml_service/` directory.
 - **Salesforce**: Full forward and reverse ETL
 - Auto-provisioning of custom properties (HubSpot)
 
-### 4. Executive Dashboard
+### 4. Executive Dashboard (Live on Render)
+- **URL**: Frontend can be opened directly in browser, connects to live API at `https://revops-inference-engines.onrender.com`
 - Dark theme with neon accents
-- KPI cards showing:
-  - Total open pipeline value
-  - Active deals count
-  - High-risk deals count
-- Scatter plot: Flight Risk vs Deal Amount
-- Scrollable deal table with:
-  - Target account
-  - AI churn vector (progress bar)
-  - Deal valuation
-  - Cycle horizon
+- 3-tier risk KPI cards (Healthy, Elevated, Critical) showing deal count and value
+- Interactive Flight Risk Matrix scatter plot (click points to locate deals)
+- Search/filter bar to find specific accounts
+- Grid of deal cards with AI churn vector, valuation, and days left
+- Custom scrollbars and glassmorphism effects
 
 ---
 
@@ -239,5 +243,8 @@ Requires `synthetic_pipeline_payload.csv` in the `ml_service/` directory.
 ---
 
 ## License and Contact
-- **License**: To Be Determined
-- **Maintainer**: RevOps Team
+
+- **License**: [MIT License](https://opensource.org/licenses/MIT)
+- **Maintainer**: Ogezi Emmanuel
+- **Email**: emmanuel@emmanuelogezi.cv
+- **LinkedIn**: [https://www.linkedin.com/in/emmanuel-ogezi-2501932b6/](https://www.linkedin.com/in/emmanuel-ogezi-2501932b6/)

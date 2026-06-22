@@ -1,5 +1,5 @@
 // Point this to your FastAPI local server
-const API_URL = 'http://127.0.0.1:8000/api/v1/pipeline-diagnostics';
+const API_URL = 'https://revops-inference-engines.onrender.com';
 
 // Executive Currency Formatter
 const currencyFormatter = new Intl.NumberFormat('en-US', {
