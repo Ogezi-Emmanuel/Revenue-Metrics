@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 from faker import Faker
+import os
 
 # Instantiate Faker and set static seeds so your portfolio data is reproducible
 fake = Faker()
@@ -82,10 +83,13 @@ def generate_saas_deals(num_records=3000):
 if __name__ == "__main__":
     pipeline_df = generate_saas_deals(3000)
     
-    # Law of Data Engineering: Always commit a local static backup before API ingestion
-    output_filename = "synthetic_pipeline_payload.csv"
-    pipeline_df.to_csv(output_filename, index=False)
+    # Write to both locations for convenience
+    output_path_local = "synthetic_pipeline_payload.csv"
+    output_path_ml = os.path.join("..", "ml_service", "synthetic_pipeline_payload.csv")
     
-    print(f"\nSUCCESS: Dataset compiled and saved to '{output_filename}'.")
+    pipeline_df.to_csv(output_path_local, index=False)
+    pipeline_df.to_csv(output_path_ml, index=False)
+    
+    print(f"\nSUCCESS: Dataset compiled and saved locally and in ml_service directory!")
     print("\nPayload Architecture Preview:")
     print(pipeline_df[['deal_name', 'amount', 'stage', 'days_stalled', 'client_engagement_index']].head(5))

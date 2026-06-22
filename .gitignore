@@ -2,13 +2,40 @@
 .env
 hubspot.config.yml
 
+# Virtual Environment
+venv/
+env/
+ENV/
+
 # Python cache files
 *.pyc
 __pycache__/
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
 
 # Data files
 *.csv
+*.xlsx
+*.xls
+*.parquet
 
 # OS files
 .DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
 

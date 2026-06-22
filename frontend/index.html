@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Elite AI RevOps Command Center</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-[#0a0f0d] text-white font-sans min-h-screen pb-12">
+    <div class="container mx-auto px-4 sm:px-6 py-8 max-w-7xl">
+        
+        <header class="mb-8 flex flex-col sm:flex-row sm:items-center justify-between border-b border-gray-800 pb-6 gap-4">
+            <div>
+                <h1 class="text-3xl sm:text-4xl font-bold tracking-tight bg-gradient-to-r from-[#00ff88] to-[#00cc6a] bg-clip-text text-transparent flex items-center gap-3">
+                    <span>⚡</span> AI RevOps Command Center
+                </h1>
+                <p class="text-xs sm:text-sm text-gray-400 mt-1 font-mono">MODEL INFERENCE: [RandomForest_v2.4] | TARGET: [Q3_ARR_PROTECTION]</p>
+            </div>
+            <div class="flex items-center gap-3 bg-gray-900/80 border border-gray-800 px-4 py-2 rounded-full self-start sm:self-auto">
+                <div id="status-dot" class="w-2.5 h-2.5 rounded-full bg-[#00ff88] animate-pulse shadow-[0_0_10px_#00ff88]"></div>
+                <span id="status-text" class="text-[#00ff88] font-mono text-xs uppercase tracking-wider font-semibold">API Online</span>
+            </div>
+        </header>
+
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 mb-6">
+            <div class="bg-gray-900/50 p-5 rounded-xl border border-gray-800 flex justify-between items-center shadow-lg">
+                <span class="text-gray-400 font-mono text-xs uppercase tracking-wider font-semibold">Total Pipeline ARR</span>
+                <span id="kpi-open-arr" class="text-2xl sm:text-3xl font-bold font-mono text-white tracking-tight">Syncing...</span>
+            </div>
+            <div class="bg-gray-900/50 p-5 rounded-xl border border-gray-800 flex justify-between items-center shadow-lg">
+                <span class="text-gray-400 font-mono text-xs uppercase tracking-wider font-semibold">Active Opportunities</span>
+                <span id="kpi-active-deals" class="text-2xl sm:text-3xl font-bold font-mono text-white tracking-tight">--</span>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-10">
+            <div class="glass-panel rounded-xl p-6 border border-emerald-900/50 hover:border-[#00ff88]/50 transition-all relative overflow-hidden group">
+                <div class="absolute top-0 right-0 w-24 h-24 bg-[#00ff88]/5 rounded-bl-full group-hover:bg-[#00ff88]/10 transition-colors"></div>
+                <div class="flex justify-between items-start mb-3">
+                    <p class="text-emerald-500 font-mono text-xs uppercase tracking-widest font-bold">Healthy (< 35%)</p>
+                    <span id="kpi-healthy-count" class="bg-emerald-950/50 text-[#00ff88] text-xs font-mono px-2 py-1 rounded border border-emerald-900/50">-- Deals</span>
+                </div>
+                <p id="kpi-healthy-val" class="text-3xl font-bold font-mono text-[#00ff88] tracking-tight">--</p>
+            </div>
+
+            <div class="glass-panel rounded-xl p-6 border border-yellow-900/50 hover:border-[#facc15]/50 transition-all relative overflow-hidden group">
+                <div class="absolute top-0 right-0 w-24 h-24 bg-[#facc15]/5 rounded-bl-full group-hover:bg-[#facc15]/10 transition-colors"></div>
+                <div class="flex justify-between items-start mb-3">
+                    <p class="text-yellow-500 font-mono text-xs uppercase tracking-widest font-bold">Elevated (35-64%)</p>
+                    <span id="kpi-elevated-count" class="bg-yellow-950/50 text-[#facc15] text-xs font-mono px-2 py-1 rounded border border-yellow-900/50">-- Deals</span>
+                </div>
+                <p id="kpi-elevated-val" class="text-3xl font-bold font-mono text-[#facc15] tracking-tight">--</p>
+            </div>
+
+            <div class="glass-panel rounded-xl p-6 border border-red-900/50 hover:border-[#ef4444]/50 transition-all relative overflow-hidden group">
+                <div class="absolute top-0 right-0 w-24 h-24 bg-[#ef4444]/5 rounded-bl-full group-hover:bg-[#ef4444]/10 transition-colors"></div>
+                <div class="flex justify-between items-start mb-3">
+                    <p class="text-red-500 font-mono text-xs uppercase tracking-widest font-bold">Critical (> 65%)</p>
+                    <span id="kpi-critical-count" class="bg-red-950/50 text-[#ef4444] text-xs font-mono px-2 py-1 rounded border border-red-900/50">-- Deals</span>
+                </div>
+                <p id="kpi-critical-val" class="text-3xl font-bold font-mono text-[#ef4444] tracking-tight">--</p>
+            </div>
+        </div>
+
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+            
+            <div class="lg:col-span-1 glass-panel rounded-xl p-6 border border-gray-800 flex flex-col justify-between sticky top-6 self-start h-[520px]">
+                <div>
+                    <div class="flex items-center justify-between mb-2">
+                        <h2 class="text-sm font-mono text-gray-300 uppercase tracking-wider">Flight Risk Matrix</h2>
+                        <span class="text-[10px] font-mono text-[#00ff88] bg-[#00ff88]/10 px-2 py-0.5 rounded border border-[#00ff88]/20">Interactive</span>
+                    </div>
+                    <p class="text-xs text-gray-500 mb-4">Click any point to locate opportunity in the queue.</p>
+                </div>
+                <div class="flex-grow w-full relative">
+                    <canvas id="riskChart"></canvas>
+                </div>
+            </div>
+
+            <div class="lg:col-span-2 flex flex-col">
+                
+                <div class="mb-4 flex flex-col sm:flex-row items-center justify-between gap-3">
+                    <h2 class="text-sm font-mono text-gray-300 uppercase tracking-wider">Opportunity Queue (Top 25)</h2>
+                    <div class="w-full sm:w-72 relative">
+                        <input 
+                            type="text" 
+                            id="search-box" 
+                            placeholder="Filter accounts..." 
+                            class="w-full bg-[#0a0f0d] border border-gray-700 rounded-lg px-4 py-2 text-sm text-gray-200 placeholder-gray-500 focus:outline-none focus:border-[#00ff88] focus:ring-1 focus:ring-[#00ff88] font-mono transition-all"
+                        >
+                    </div>
+                </div>
+
+                <div id="deals-grid" class="grid grid-cols-1 sm:grid-cols-2 gap-4 overflow-y-auto custom-scrollbar pb-4 pr-2" style="max-height: 520px; align-content: start;">
+                    <div class="col-span-full py-16 text-center text-gray-500 font-mono text-xs animate-pulse bg-[#0a0f0d] border border-gray-800 rounded-xl">
+                        Establishing socket connection to inference engine...
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
