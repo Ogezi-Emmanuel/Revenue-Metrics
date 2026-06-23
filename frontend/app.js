@@ -258,3 +258,19 @@ function renderInferenceChart(deals) {
 }
 
 document.addEventListener('DOMContentLoaded', initializeTerminal);
+
+// Handle window resize for chart responsiveness
+window.addEventListener('resize', () => {
+    if (riskScatterChart) {
+        riskScatterChart.resize();
+    }
+});
+
+// Handle orientation change for mobile devices
+window.addEventListener('orientationchange', () => {
+    setTimeout(() => {
+        if (riskScatterChart) {
+            riskScatterChart.resize();
+        }
+    }, 100);
+});

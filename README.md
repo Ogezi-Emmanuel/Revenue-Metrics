@@ -154,6 +154,13 @@ This creates `synthetic_pipeline_payload.csv` in both `etl_pipeline/` and `ml_se
 1. **Open Dashboard**
 Open `frontend/index.html` in any browser - it will connect to the live API hosted on Render!
 
+#### Local Development Notes:
+When opening the HTML file directly via `file://` protocol (not a local server), you may see two warnings in the browser console:
+- **Tailwind CDN warning**: This is just a reminder that the CDN isn't intended for production. Since this is a static frontend with no build process, it's safe to use.
+- **'file:' URL security warning**: This is a browser security notice for local file access, it does not affect video or dashboard functionality.
+
+Both warnings will disappear once the frontend is deployed to a web server (GitHub Pages, Vercel, etc.).
+
 ### Option B: Run ML Service and Dashboard (Standalone)
 1. **Update API_URL** (in `frontend/app.js`)
 Change the API_URL from `https://revops-inference-engines.onrender.com` to `http://127.0.0.1:8000`
