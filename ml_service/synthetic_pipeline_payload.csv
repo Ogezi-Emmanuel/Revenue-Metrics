@@ -2441,7 +2441,7 @@ crm_id,deal_name,company_name,stage,amount,days_stalled,rep_touchpoints,client_e
 507486099680,Gutierrez-Bell - Q3 License,Gutierrez-Bell,qualifiedtobuy,15700.0,1,0,0.48,3.5,8.0,7.0,3.5,hubspot
 507520332992,"Simmons, Dickson and Rogers - Q3 License","Simmons, Dickson and Rogers",appointmentscheduled,22500.0,1,0,0.48,3.5,9.0,8.0,3.5,hubspot
 507447579842,Ellis LLC - Q3 License,Ellis LLC,presentationscheduled,55100.0,1,0,0.48,3.7,9.0,8.0,3.7,hubspot
-507487880428,"Graham, Mitchell and Keller - Q3 License","Graham, Mitchell and Keller",presentationscheduled,41900.0,1,0,0.48,3.7,9.0,8.0,3.7,hubspot
+507487880428,"Graham, Mitchell and Keller - Q3 License","Graham, Mitchell and Keller",decisionmakerboughtin,41900.0,1,0,0.48,3.7,9.0,8.0,3.7,hubspot
 507491400926,"Kim, Campbell and Oliver - Q3 License","Kim, Campbell and Oliver",presentationscheduled,7600.0,1,0,0.48,10.8,8.0,7.0,10.8,hubspot
 507500649660,Banks PLC - Q3 License,Banks PLC,qualifiedtobuy,22800.0,1,0,0.48,3.5,9.0,8.0,3.5,hubspot
 507487880435,Garcia-Brady - Q3 License,Garcia-Brady,decisionmakerboughtin,113500.0,1,0,0.48,3.7,9.0,8.0,3.7,hubspot
